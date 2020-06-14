@@ -20,7 +20,7 @@ Why not?
 Because making another password manager is a bit dumb, also I have made something that starts with Extremely Stupid. (and I had the idea to make this around 23:00)
 
 ### Why should I use this instead of [PASSWORD MANAGER]?
-You shouldn't and anyways when you are reading this the password manager is probably not done yet.
+You probably shouldn't and anyways when you are reading this the password manager is probably not done yet.
 
 ### HURR DURR IS MANAGER READY YET?
 N o.
